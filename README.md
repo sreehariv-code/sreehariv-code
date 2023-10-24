@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **HTML, CSS, JS, React, SCSS**
 
-- 📫 How to reach me **sreehariv07@gmail.com**
+- 📫 How to reach me **work.sreeharipv@gmail.com**
 
 - ⚡ Fun fact **Born and brought up by KTU**
 
