@@ -22,4 +22,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sreehariv-code&show_icons=true&locale=en&layout=compact" alt="sreehariv-code" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sreehariv-code&show_icons=true&locale=en" alt="sreehariv-code" /></p>
+
